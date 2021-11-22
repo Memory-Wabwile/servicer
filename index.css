@@ -62,3 +62,17 @@ li a{
         flex: 1;
       margin-left: 100px; 
     }
+    #image{
+        flex: 1;
+    }
+    #get{
+        margin-top: 10px;
+        height: 50px;
+        width: 200px;
+        font-weight: bolder;
+        border: none;
+        color: white;
+        background-color: darkblue;
+        font-size: larger;
+        margin-right: 60px;  
+    }
