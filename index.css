@@ -32,12 +32,12 @@ li a{
 #but,#btn{
     margin-top: 10px;
     height: 50px;
-    width: 200px;
+    width: 150px;
     font-weight: bolder;
     border: none;
     color: white;
     background-color: blue;
-    font-size: larger;
+    font-size: large;
     margin-right: 60px;
     }
     #touch{
@@ -84,6 +84,7 @@ li a{
         background-repeat: no-repeat;
         text-align: center;
         padding-top: 100px;
+
     }
     #in{
         margin-top: 10px;
